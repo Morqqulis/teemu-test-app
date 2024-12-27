@@ -1,5 +1,5 @@
 # personalsite
 
 
-1)npm install
-2)npm start
+1)bun install
+2)bun run dev
